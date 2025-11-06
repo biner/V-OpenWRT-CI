@@ -42,8 +42,7 @@ CONFIG_PACKAGE_kmod-nft-tproxy=y
 CONFIG_PACKAGE_kmod-nft-xfrm=y
 CONFIG_PACKAGE_kmod-sound-core=n
 CONFIG_PACKAGE_kmod-tun=y
-#增加ebtables,方便 iot 设备做隔离网络
-CONFIG_PACKAGE_kmod-ebtables=y
+
 
 
 #取消usb
